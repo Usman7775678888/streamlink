@@ -20,7 +20,7 @@ Command-line usage
 
 .. code-block:: console
 
-    $ streamlink [OPTIONS] <URL> [STREAM]
+    $ streamlink [ffmpeg] <URL> [STREAM]
 
 
 .. argparse::
